@@ -41,3 +41,11 @@ This project is provided "as-is": there is no guarantee that raised issues will 
 ### License
 Copyright (c) 2019-20 SAP SE or an SAP affiliate company. All rights reserved.
 This project is licensed under the SAP Sample Code License except as noted otherwise in the [LICENSE](LICENSE) file.
+
+### Others
+You're not the masterdata of disaster!
+Send in the master again!
+MasterDataField, MasterDataEntity, MasterDataEntitySet
+MasterField, MasterEntity, MasterEntitySet
+Oh yes!
+
