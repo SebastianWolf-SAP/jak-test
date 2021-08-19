@@ -43,4 +43,4 @@ Copyright (c) 2019-20 SAP SE or an SAP affiliate company. All rights reserved.
 This project is licensed under the SAP Sample Code License except as noted otherwise in the [LICENSE](LICENSE) file.
 
 ### Others
-I'll be the master of disaster!
+I'll be the master of disaster! But you're not the masterdata of disaster!
