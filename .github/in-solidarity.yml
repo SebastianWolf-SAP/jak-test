@@ -4,7 +4,7 @@ rules:
   masterdata:
     level: warning
     regex:
-      - /\b(?!masterdata\b)master/gi
+      - /\b(?!masterdata|masterdata\w+\b)master/gi
     alternatives:
       - primary
       - main
